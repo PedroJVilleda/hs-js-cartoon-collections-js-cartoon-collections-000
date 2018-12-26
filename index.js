@@ -8,6 +8,8 @@ for(i; i < dwarves.length; i++){
 }
 }
 
+planeteerCalls = ["earth", "wind", "fire", "water", "heart"];
+
 function summonCaptainPlanet(planeteerCalls){
 }
 
