@@ -1,5 +1,7 @@
+var dwarves = 
+
+
 function dwarfRollCall(dwarves) {
-  
 }
 
 function summonCaptainPlanet(planeteerCalls){
